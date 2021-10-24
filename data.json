@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "puma/puma",
+    "stargazers_count": 6870,
+    "open_issues_count": 63,
+    "forks_count": 1277
+  },
+  {
     "full_name": "rubocop/rubocop",
     "stargazers_count": 11530,
     "open_issues_count": 216,
-    "forks_count": 2782
+    "forks_count": 2783
   },
   {
     "full_name": "rmosolgo/graphql-ruby",

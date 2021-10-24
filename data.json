@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "rubocop/rubocop",
+    "stargazers_count": 11530,
+    "open_issues_count": 216,
+    "forks_count": 2782
+  },
+  {
     "full_name": "rmosolgo/graphql-ruby",
     "stargazers_count": 4879,
     "open_issues_count": 96,

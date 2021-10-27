@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "getsentry/sentry-ruby",
+    "stargazers_count": 778,
+    "open_issues_count": 23,
+    "forks_count": 394
+  },
+  {
     "full_name": "rubyforgood/casa",
     "stargazers_count": 118,
-    "open_issues_count": 149,
+    "open_issues_count": 141,
     "forks_count": 190
   },
   {
@@ -19,20 +25,20 @@
   },
   {
     "full_name": "puma/puma",
-    "stargazers_count": 6875,
-    "open_issues_count": 62,
-    "forks_count": 1277
+    "stargazers_count": 6877,
+    "open_issues_count": 64,
+    "forks_count": 1278
   },
   {
     "full_name": "rubocop/rubocop",
-    "stargazers_count": 11533,
+    "stargazers_count": 11534,
     "open_issues_count": 218,
-    "forks_count": 2784
+    "forks_count": 2785
   },
   {
     "full_name": "rmosolgo/graphql-ruby",
     "stargazers_count": 4882,
-    "open_issues_count": 89,
+    "open_issues_count": 91,
     "forks_count": 1149
   }
 ]

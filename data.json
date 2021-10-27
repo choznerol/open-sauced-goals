@@ -2,13 +2,13 @@
   {
     "full_name": "rubyforgood/casa",
     "stargazers_count": 118,
-    "open_issues_count": 138,
-    "forks_count": 188
+    "open_issues_count": 149,
+    "forks_count": 190
   },
   {
     "full_name": "rubyforgood/human-essentials",
     "stargazers_count": 253,
-    "open_issues_count": 36,
+    "open_issues_count": 35,
     "forks_count": 269
   },
   {
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "puma/puma",
-    "stargazers_count": 6872,
+    "stargazers_count": 6875,
     "open_issues_count": 62,
     "forks_count": 1277
   },
   {
     "full_name": "rubocop/rubocop",
     "stargazers_count": 11533,
-    "open_issues_count": 217,
+    "open_issues_count": 218,
     "forks_count": 2784
   },
   {
     "full_name": "rmosolgo/graphql-ruby",
     "stargazers_count": 4882,
-    "open_issues_count": 92,
-    "forks_count": 1147
+    "open_issues_count": 89,
+    "forks_count": 1149
   }
 ]

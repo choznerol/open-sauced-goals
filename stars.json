@@ -7,8 +7,8 @@
   },
   {
     "full_name": "rubyforgood/human-essentials",
-    "stargazers_count": 253,
-    "open_issues_count": 35,
+    "stargazers_count": 254,
+    "open_issues_count": 36,
     "forks_count": 269
   },
   {
@@ -55,33 +55,33 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 147760,
+    "stargazers_count": 147817,
     "open_issues_count": 260,
-    "forks_count": 27332
+    "forks_count": 27345
   },
   {
     "full_name": "dragonman225/notablog",
-    "stargazers_count": 303,
+    "stargazers_count": 304,
     "open_issues_count": 8,
     "forks_count": 36
   },
   {
     "full_name": "rubocop/ruby-style-guide",
-    "stargazers_count": 15798,
+    "stargazers_count": 15799,
     "open_issues_count": 59,
     "forks_count": 3408
   },
   {
     "full_name": "rmosolgo/graphql-ruby",
-    "stargazers_count": 4883,
-    "open_issues_count": 90,
+    "stargazers_count": 4885,
+    "open_issues_count": 91,
     "forks_count": 1151
   },
   {
     "full_name": "heroku/heroku-buildpack-ruby",
     "stargazers_count": 730,
     "open_issues_count": 94,
-    "forks_count": 1847
+    "forks_count": 1846
   },
   {
     "full_name": "heroku/heroku-buildpack-nginx",
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "rails/jsbundling-rails",
-    "stargazers_count": 278,
-    "open_issues_count": 13,
+    "stargazers_count": 279,
+    "open_issues_count": 14,
     "forks_count": 22
   },
   {
     "full_name": "cdk-patterns/serverless",
-    "stargazers_count": 1399,
+    "stargazers_count": 1401,
     "open_issues_count": 63,
-    "forks_count": 178
+    "forks_count": 179
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 24473,
-    "open_issues_count": 22,
-    "forks_count": 2165
+    "stargazers_count": 24492,
+    "open_issues_count": 23,
+    "forks_count": 2166
   },
   {
     "full_name": "Vonng/ddia",
-    "stargazers_count": 9620,
+    "stargazers_count": 9639,
     "open_issues_count": 0,
-    "forks_count": 2114
+    "forks_count": 2118
   },
   {
     "full_name": "tcrayford/Values",
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "JetBrains/ideavim",
-    "stargazers_count": 6047,
-    "open_issues_count": 5,
-    "forks_count": 608
+    "stargazers_count": 6053,
+    "open_issues_count": 2,
+    "forks_count": 609
   },
   {
     "full_name": "tpope/vim-surround",
-    "stargazers_count": 9948,
+    "stargazers_count": 9950,
     "open_issues_count": 111,
     "forks_count": 393
   },

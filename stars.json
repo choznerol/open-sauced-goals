@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "FGRibreau/mailchecker",
+    "stargazers_count": 1304,
+    "open_issues_count": 7,
+    "forks_count": 182
+  },
+  {
+    "full_name": "lynndylanhurley/devise_token_auth",
+    "stargazers_count": 3235,
+    "open_issues_count": 174,
+    "forks_count": 1044
+  },
+  {
     "full_name": "getsentry/sentry-ruby",
-    "stargazers_count": 778,
+    "stargazers_count": 779,
     "open_issues_count": 25,
     "forks_count": 395
   },
   {
     "full_name": "rubyforgood/human-essentials",
-    "stargazers_count": 254,
-    "open_issues_count": 36,
+    "stargazers_count": 256,
+    "open_issues_count": 39,
     "forks_count": 269
   },
   {
     "full_name": "hschne/rails-mini-profiler",
     "stargazers_count": 304,
-    "open_issues_count": 4,
-    "forks_count": 13
+    "open_issues_count": 9,
+    "forks_count": 14
   },
   {
     "full_name": "palkan/n_plus_one_control",
@@ -25,7 +37,7 @@
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 7595,
+    "stargazers_count": 7599,
     "open_issues_count": 363,
     "forks_count": 651
   },
@@ -49,39 +61,39 @@
   },
   {
     "full_name": "palkan/logidze",
-    "stargazers_count": 1174,
+    "stargazers_count": 1178,
     "open_issues_count": 3,
     "forks_count": 53
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 147817,
+    "stargazers_count": 148131,
     "open_issues_count": 260,
-    "forks_count": 27345
+    "forks_count": 27413
   },
   {
     "full_name": "dragonman225/notablog",
-    "stargazers_count": 304,
+    "stargazers_count": 307,
     "open_issues_count": 8,
-    "forks_count": 36
+    "forks_count": 38
   },
   {
     "full_name": "rubocop/ruby-style-guide",
-    "stargazers_count": 15799,
+    "stargazers_count": 15804,
     "open_issues_count": 59,
     "forks_count": 3408
   },
   {
     "full_name": "rmosolgo/graphql-ruby",
-    "stargazers_count": 4885,
-    "open_issues_count": 91,
+    "stargazers_count": 4888,
+    "open_issues_count": 89,
     "forks_count": 1151
   },
   {
     "full_name": "heroku/heroku-buildpack-ruby",
     "stargazers_count": 730,
-    "open_issues_count": 94,
-    "forks_count": 1846
+    "open_issues_count": 93,
+    "forks_count": 1847
   },
   {
     "full_name": "heroku/heroku-buildpack-nginx",
@@ -93,37 +105,37 @@
     "full_name": "rails/sprockets",
     "stargazers_count": 815,
     "open_issues_count": 99,
-    "forks_count": 764
+    "forks_count": 763
   },
   {
     "full_name": "rails/kredis",
     "stargazers_count": 718,
     "open_issues_count": 0,
-    "forks_count": 30
+    "forks_count": 29
   },
   {
     "full_name": "rails/jsbundling-rails",
-    "stargazers_count": 279,
+    "stargazers_count": 283,
     "open_issues_count": 14,
-    "forks_count": 22
+    "forks_count": 21
   },
   {
     "full_name": "cdk-patterns/serverless",
-    "stargazers_count": 1401,
+    "stargazers_count": 1409,
     "open_issues_count": 63,
-    "forks_count": 179
+    "forks_count": 180
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 24492,
-    "open_issues_count": 23,
-    "forks_count": 2166
+    "stargazers_count": 24584,
+    "open_issues_count": 24,
+    "forks_count": 2170
   },
   {
     "full_name": "Vonng/ddia",
-    "stargazers_count": 9639,
+    "stargazers_count": 9741,
     "open_issues_count": 0,
-    "forks_count": 2118
+    "forks_count": 2141
   },
   {
     "full_name": "tcrayford/Values",
@@ -145,37 +157,25 @@
   },
   {
     "full_name": "JetBrains/ideavim",
-    "stargazers_count": 6053,
+    "stargazers_count": 6064,
     "open_issues_count": 2,
-    "forks_count": 609
+    "forks_count": 607
   },
   {
     "full_name": "tpope/vim-surround",
-    "stargazers_count": 9950,
+    "stargazers_count": 9959,
     "open_issues_count": 111,
-    "forks_count": 393
+    "forks_count": 392
   },
   {
     "full_name": "TermiT/Flycut",
-    "stargazers_count": 1824,
-    "open_issues_count": 85,
-    "forks_count": 175
+    "stargazers_count": 1825,
+    "open_issues_count": 86,
+    "forks_count": 176
   },
   {
     "full_name": "johnlinvc/mruby-cli",
     "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "socketry/db",
-    "stargazers_count": 39,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "socketry/lively",
-    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
   }

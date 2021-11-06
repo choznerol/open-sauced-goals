@@ -7,21 +7,21 @@
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 12176,
-    "open_issues_count": 107,
-    "forks_count": 486
+    "stargazers_count": 12184,
+    "open_issues_count": 108,
+    "forks_count": 487
   },
   {
     "full_name": "FGRibreau/mailchecker",
     "stargazers_count": 1306,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 182
   },
   {
     "full_name": "lynndylanhurley/devise_token_auth",
     "stargazers_count": 3237,
     "open_issues_count": 175,
-    "forks_count": 1044
+    "forks_count": 1045
   },
   {
     "full_name": "getsentry/sentry-ruby",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 7605,
+    "stargazers_count": 7606,
     "open_issues_count": 367,
     "forks_count": 651
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "sunny/actor",
-    "stargazers_count": 167,
+    "stargazers_count": 168,
     "open_issues_count": 2,
     "forks_count": 7
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 148867,
+    "stargazers_count": 148965,
     "open_issues_count": 261,
-    "forks_count": 27495
+    "forks_count": 27515
   },
   {
     "full_name": "dragonman225/notablog",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "rubocop/ruby-style-guide",
-    "stargazers_count": 15806,
+    "stargazers_count": 15807,
     "open_issues_count": 59,
     "forks_count": 3409
   },
   {
     "full_name": "rmosolgo/graphql-ruby",
     "stargazers_count": 4890,
-    "open_issues_count": 80,
-    "forks_count": 1151
+    "open_issues_count": 75,
+    "forks_count": 1152
   },
   {
     "full_name": "heroku/heroku-buildpack-ruby",
     "stargazers_count": 730,
     "open_issues_count": 93,
-    "forks_count": 1846
+    "forks_count": 1845
   },
   {
     "full_name": "heroku/heroku-buildpack-nginx",
@@ -116,38 +116,38 @@
   {
     "full_name": "rails/sprockets",
     "stargazers_count": 815,
-    "open_issues_count": 99,
+    "open_issues_count": 98,
     "forks_count": 764
   },
   {
     "full_name": "rails/kredis",
     "stargazers_count": 718,
-    "open_issues_count": 0,
-    "forks_count": 29
+    "open_issues_count": 1,
+    "forks_count": 30
   },
   {
     "full_name": "rails/jsbundling-rails",
-    "stargazers_count": 287,
-    "open_issues_count": 14,
+    "stargazers_count": 288,
+    "open_issues_count": 7,
     "forks_count": 21
   },
   {
     "full_name": "cdk-patterns/serverless",
-    "stargazers_count": 1415,
+    "stargazers_count": 1417,
     "open_issues_count": 63,
     "forks_count": 180
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 24630,
+    "stargazers_count": 24639,
     "open_issues_count": 26,
-    "forks_count": 2175
+    "forks_count": 2176
   },
   {
     "full_name": "Vonng/ddia",
-    "stargazers_count": 9830,
+    "stargazers_count": 9847,
     "open_issues_count": 0,
-    "forks_count": 2155
+    "forks_count": 2160
   },
   {
     "full_name": "tcrayford/Values",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "JetBrains/ideavim",
-    "stargazers_count": 6070,
+    "stargazers_count": 6074,
     "open_issues_count": 2,
     "forks_count": 606
   },
   {
     "full_name": "tpope/vim-surround",
-    "stargazers_count": 9968,
+    "stargazers_count": 9970,
     "open_issues_count": 112,
     "forks_count": 392
   }

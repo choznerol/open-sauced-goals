@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "devato/inertia_phoenix",
+    "stargazers_count": 58,
+    "open_issues_count": 12,
+    "forks_count": 5
+  },
+  {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5783,
+    "stargazers_count": 5785,
     "open_issues_count": 80,
     "forks_count": 1402
   },
@@ -13,19 +19,19 @@
   },
   {
     "full_name": "knex/knex",
-    "stargazers_count": 14894,
+    "stargazers_count": 14899,
     "open_issues_count": 582,
-    "forks_count": 1759
+    "forks_count": 1760
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 536,
+    "stargazers_count": 537,
     "open_issues_count": 25,
     "forks_count": 151
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 12189,
+    "stargazers_count": 12191,
     "open_issues_count": 108,
     "forks_count": 487
   },
@@ -38,24 +44,24 @@
   {
     "full_name": "lynndylanhurley/devise_token_auth",
     "stargazers_count": 3238,
-    "open_issues_count": 175,
+    "open_issues_count": 171,
     "forks_count": 1045
   },
   {
     "full_name": "getsentry/sentry-ruby",
     "stargazers_count": 779,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 397
   },
   {
     "full_name": "rubyforgood/human-essentials",
     "stargazers_count": 257,
-    "open_issues_count": 42,
+    "open_issues_count": 43,
     "forks_count": 270
   },
   {
     "full_name": "hschne/rails-mini-profiler",
-    "stargazers_count": 304,
+    "stargazers_count": 305,
     "open_issues_count": 9,
     "forks_count": 14
   },
@@ -97,13 +103,13 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 148996,
+    "stargazers_count": 149046,
     "open_issues_count": 261,
-    "forks_count": 27519
+    "forks_count": 27524
   },
   {
     "full_name": "dragonman225/notablog",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 8,
     "forks_count": 37
   },
@@ -151,19 +157,19 @@
   },
   {
     "full_name": "cdk-patterns/serverless",
-    "stargazers_count": 1418,
+    "stargazers_count": 1419,
     "open_issues_count": 63,
     "forks_count": 179
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 24643,
-    "open_issues_count": 26,
-    "forks_count": 2177
+    "stargazers_count": 24648,
+    "open_issues_count": 27,
+    "forks_count": 2178
   },
   {
     "full_name": "Vonng/ddia",
-    "stargazers_count": 9854,
+    "stargazers_count": 9859,
     "open_issues_count": 0,
     "forks_count": 2162
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 532,
     "open_issues_count": 6,
     "forks_count": 32
-  },
-  {
-    "full_name": "stoneapptech/epub_convert",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]

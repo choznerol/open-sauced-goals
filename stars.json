@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "freeletics/array_enum",
+    "stargazers_count": 25,
+    "open_issues_count": 4,
+    "forks_count": 7
+  },
+  {
     "full_name": "heartcombo/responders",
     "stargazers_count": 1908,
     "open_issues_count": 6,
@@ -13,14 +19,14 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5789,
+    "stargazers_count": 5791,
     "open_issues_count": 80,
     "forks_count": 1407
   },
   {
     "full_name": "thematters/matters-server",
     "stargazers_count": 45,
-    "open_issues_count": 49,
+    "open_issues_count": 50,
     "forks_count": 6
   },
   {
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 12210,
+    "stargazers_count": 12212,
     "open_issues_count": 107,
     "forks_count": 488
   },
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "lynndylanhurley/devise_token_auth",
-    "stargazers_count": 3240,
+    "stargazers_count": 3241,
     "open_issues_count": 171,
     "forks_count": 1045
   },
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 7611,
+    "stargazers_count": 7612,
     "open_issues_count": 369,
     "forks_count": 651
   },
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 149211,
+    "stargazers_count": 149231,
     "open_issues_count": 262,
-    "forks_count": 27547
+    "forks_count": 27549
   },
   {
     "full_name": "dragonman225/notablog",
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "rubocop/ruby-style-guide",
-    "stargazers_count": 15808,
+    "stargazers_count": 15809,
     "open_issues_count": 59,
     "forks_count": 3409
   },
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "rails/jsbundling-rails",
-    "stargazers_count": 289,
+    "stargazers_count": 290,
     "open_issues_count": 7,
     "forks_count": 21
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 24673,
-    "open_issues_count": 27,
-    "forks_count": 2181
-  },
-  {
-    "full_name": "Vonng/ddia",
-    "stargazers_count": 9900,
-    "open_issues_count": 0,
-    "forks_count": 2176
+    "stargazers_count": 24681,
+    "open_issues_count": 28,
+    "forks_count": 2182
   }
 ]

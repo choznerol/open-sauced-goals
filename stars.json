@@ -1,45 +1,45 @@
 [
   {
     "full_name": "Shopify/quilt",
-    "stargazers_count": 1110,
+    "stargazers_count": 1114,
     "open_issues_count": 94,
     "forks_count": 171
   },
   {
     "full_name": "enisdenjo/graphql-ws",
-    "stargazers_count": 887,
+    "stargazers_count": 890,
     "open_issues_count": 0,
     "forks_count": 58
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 25733,
-    "open_issues_count": 175,
-    "forks_count": 1340
+    "stargazers_count": 25876,
+    "open_issues_count": 180,
+    "forks_count": 1353
   },
   {
     "full_name": "rack/rack-attack",
-    "stargazers_count": 5019,
+    "stargazers_count": 5021,
     "open_issues_count": 17,
     "forks_count": 318
   },
   {
     "full_name": "RailsEventStore/rails_event_store",
     "stargazers_count": 1074,
-    "open_issues_count": 75,
-    "forks_count": 94
+    "open_issues_count": 76,
+    "forks_count": 95
   },
   {
     "full_name": "kevquirk/simple.css",
-    "stargazers_count": 858,
+    "stargazers_count": 865,
     "open_issues_count": 2,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "github/scientist",
-    "stargazers_count": 6306,
+    "stargazers_count": 6308,
     "open_issues_count": 11,
-    "forks_count": 463
+    "forks_count": 464
   },
   {
     "full_name": "beyondthestory/rails_admin_map_field",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5913,
+    "stargazers_count": 5920,
     "open_issues_count": 83,
-    "forks_count": 1437
+    "forks_count": 1441
   },
   {
     "full_name": "thematters/matters-server",
@@ -79,32 +79,32 @@
   },
   {
     "full_name": "knex/knex",
-    "stargazers_count": 15129,
+    "stargazers_count": 15139,
     "open_issues_count": 595,
-    "forks_count": 1785
+    "forks_count": 1786
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 556,
-    "open_issues_count": 29,
+    "stargazers_count": 557,
+    "open_issues_count": 27,
     "forks_count": 158
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 12673,
-    "open_issues_count": 120,
-    "forks_count": 514
+    "stargazers_count": 12698,
+    "open_issues_count": 116,
+    "forks_count": 515
   },
   {
     "full_name": "FGRibreau/mailchecker",
     "stargazers_count": 1318,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 186
   },
   {
     "full_name": "lynndylanhurley/devise_token_auth",
-    "stargazers_count": 3269,
-    "open_issues_count": 174,
+    "stargazers_count": 3270,
+    "open_issues_count": 175,
     "forks_count": 1052
   },
   {
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "rubyforgood/human-essentials",
-    "stargazers_count": 263,
-    "open_issues_count": 36,
-    "forks_count": 276
+    "stargazers_count": 264,
+    "open_issues_count": 29,
+    "forks_count": 278
   },
   {
     "full_name": "hschne/rails-mini-profiler",
-    "stargazers_count": 349,
+    "stargazers_count": 351,
     "open_issues_count": 11,
     "forks_count": 16
   },
   {
     "full_name": "palkan/n_plus_one_control",
-    "stargazers_count": 399,
+    "stargazers_count": 400,
     "open_issues_count": 2,
     "forks_count": 16
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 7697,
+    "stargazers_count": 7702,
     "open_issues_count": 372,
-    "forks_count": 666
+    "forks_count": 668
   },
   {
     "full_name": "hopsoft/pipe_envy",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "palkan/logidze",
-    "stargazers_count": 1202,
+    "stargazers_count": 1204,
     "open_issues_count": 4,
     "forks_count": 55
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 155797,
-    "open_issues_count": 279,
-    "forks_count": 28785
+    "stargazers_count": 156825,
+    "open_issues_count": 281,
+    "forks_count": 28946
   },
   {
     "full_name": "dragonman225/notablog",
-    "stargazers_count": 352,
-    "open_issues_count": 8,
+    "stargazers_count": 354,
+    "open_issues_count": 9,
     "forks_count": 43
   },
   {
     "full_name": "rubocop/ruby-style-guide",
-    "stargazers_count": 15846,
+    "stargazers_count": 15848,
     "open_issues_count": 58,
-    "forks_count": 3426
+    "forks_count": 3424
   }
 ]

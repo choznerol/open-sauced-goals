@@ -1,13 +1,13 @@
 [
   {
     "full_name": "rack/rack-attack",
-    "stargazers_count": 5060,
+    "stargazers_count": 5062,
     "open_issues_count": 13,
     "forks_count": 326
   },
   {
     "full_name": "rmosolgo/graphiql-rails",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 28,
     "forks_count": 116
   },
@@ -15,19 +15,19 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 641,
     "open_issues_count": 14,
-    "forks_count": 222
+    "forks_count": 224
   },
   {
     "full_name": "railsadminteam/rails_admin",
-    "stargazers_count": 7627,
-    "open_issues_count": 192,
-    "forks_count": 2224
+    "stargazers_count": 7628,
+    "open_issues_count": 193,
+    "forks_count": 2223
   },
   {
     "full_name": "mperham/sidekiq",
-    "stargazers_count": 11734,
+    "stargazers_count": 11744,
     "open_issues_count": 25,
-    "forks_count": 2116
+    "forks_count": 2117
   },
   {
     "full_name": "utgarda/sidekiq-status",
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "rails/rails",
-    "stargazers_count": 50532,
-    "open_issues_count": 597,
-    "forks_count": 20269
+    "stargazers_count": 50555,
+    "open_issues_count": 601,
+    "forks_count": 20279
   },
   {
     "full_name": "getsentry/sentry-docs",
     "stargazers_count": 226,
-    "open_issues_count": 163,
-    "forks_count": 949
+    "open_issues_count": 164,
+    "forks_count": 950
   },
   {
     "full_name": "getsentry/sentry-ruby",
     "stargazers_count": 815,
-    "open_issues_count": 28,
+    "open_issues_count": 27,
     "forks_count": 415
   },
   {
     "full_name": "rubyforgood/casa",
-    "stargazers_count": 152,
-    "open_issues_count": 157,
-    "forks_count": 231
+    "stargazers_count": 153,
+    "open_issues_count": 158,
+    "forks_count": 233
   },
   {
     "full_name": "rubyforgood/human-essentials",
@@ -67,26 +67,26 @@
   },
   {
     "full_name": "FGRibreau/mailchecker",
-    "stargazers_count": 1341,
+    "stargazers_count": 1342,
     "open_issues_count": 2,
-    "forks_count": 193
+    "forks_count": 192
   },
   {
     "full_name": "puma/puma",
-    "stargazers_count": 7030,
-    "open_issues_count": 65,
-    "forks_count": 1304
+    "stargazers_count": 7034,
+    "open_issues_count": 62,
+    "forks_count": 1306
   },
   {
     "full_name": "rubocop/rubocop",
-    "stargazers_count": 11748,
+    "stargazers_count": 11753,
     "open_issues_count": 250,
-    "forks_count": 2856
+    "forks_count": 2855
   },
   {
     "full_name": "rmosolgo/graphql-ruby",
-    "stargazers_count": 5033,
-    "open_issues_count": 62,
+    "stargazers_count": 5041,
+    "open_issues_count": 59,
     "forks_count": 1214
   }
 ]
